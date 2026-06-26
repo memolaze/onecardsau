@@ -155,12 +155,12 @@ export default function Home() {
             </div>
             <div>
               <h4 className="text-sm font-semibold text-white mb-4" style={{ fontFamily: "Syne, sans-serif" }}>
-                Support
+                Resources
               </h4>
               <ul className="space-y-3 text-sm text-slate-400" style={{ fontFamily: "Inter, sans-serif" }}>
-                <li><a href="tel:+61449928988" className="hover:text-white transition-colors">+61 449928988</a></li>
-                <li><a href="mailto:jjdigital.sydney@gmail.com" className="hover:text-white transition-colors">Email</a></li>
-                <li><a href="/terms" className="hover:text-white transition-colors">Terms & Conditions</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Documentation</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">API Reference</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Support</a></li>
               </ul>
             </div>
             <div>
@@ -169,7 +169,7 @@ export default function Home() {
               </h4>
               <ul className="space-y-3 text-sm text-slate-400" style={{ fontFamily: "Inter, sans-serif" }}>
                 <li><a href="#" className="hover:text-white transition-colors">Privacy</a></li>
-                <li><a href="/terms" className="hover:text-white transition-colors">Terms</a></li>
+                <li><a href="/terms" className="hover:text-white transition-colors">Terms & Conditions</a></li>
                 <li><a href="#" className="hover:text-white transition-colors">Security</a></li>
               </ul>
             </div>
