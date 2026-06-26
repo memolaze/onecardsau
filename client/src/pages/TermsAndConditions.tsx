@@ -129,9 +129,9 @@ export default function TermsAndConditions() {
                 If you have any questions about these Terms & Conditions, please contact us at:
               </p>
               <div className="bg-white/5 border border-white/10 rounded-lg p-4">
-                <p className="text-white font-semibold mb-2">Onecardsau Pty Ltd</p>
-                <p className="text-slate-400 text-sm">Phone: +61 449928988</p>
-                <p className="text-slate-400 text-sm">Email: hello@onecardsau.com</p>
+                <p className="text-white font-semibold mb-3">Onecardsau Pty Ltd</p>
+                <p className="text-slate-400 text-sm mb-2">Phone: <a href="tel:+61449928988" className="text-blue-400 hover:text-blue-300 transition-colors">+61 449928988</a></p>
+                <p className="text-slate-400 text-sm">Email: <a href="mailto:jjdigital.sydney@gmail.com" className="text-blue-400 hover:text-blue-300 transition-colors">jjdigital.sydney@gmail.com</a></p>
               </div>
             </div>
           </div>
